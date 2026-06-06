@@ -87,7 +87,7 @@ mindmap
         Bino Trader
         BN Rathi Algo
     SaaS Platforms
-      Thulasi
+      TuitionHQ
         Tuition Management
         FastAPI HTMX
         Payments and Scheduling
@@ -115,7 +115,7 @@ mindmap
 |:---:|:---:|:---:|
 | [**ProcSentry**](https://github.com/achuvijayakumar/ProcSentry) | Lightweight Linux process intelligence and duplicate detection | Python · Linux · SQLite |
 | [**MemoryPingBot**](https://github.com/achuvijayakumar/MemoryPingBot) | AI-powered Telegram reminder bot with LLM integration | Python · Telegram API · AI |
-| [**thulasi**](https://github.com/achuvijayakumar/thulasi) | Full SaaS for tuition management with payments and scheduling | FastAPI · HTMX · Python |
+| [**TuitionHQ**](https://github.com/achuvijayakumar/TuitionHQ) | Full SaaS for tuition management with payments and scheduling | FastAPI · HTMX · Python |
 | [**erp_service**](https://github.com/achuvijayakumar/erp_service) | Business process automation and ERP backend | Python · FastAPI |
 | [**BN_Rathi**](https://github.com/achuvijayakumar/BN_Rathi) | Algorithmic trading system | Python · Quant Finance |
 | [**student-management-system**](https://github.com/achuvijayakumar/student-management-system) | Java console app for student records with OOP and file IO | Java · OOP |
@@ -164,7 +164,7 @@ timeline
                                 : Integrated LLM reminders
       bino_trader               : Advanced quant trading
     section SaaS and Scale
-      thulasi                   : Full SaaS platform
+      TuitionHQ                   : Full SaaS platform
                                 : FastAPI HTMX Payments
       erp_service               : Enterprise ERP backend
     section 2026 Now
