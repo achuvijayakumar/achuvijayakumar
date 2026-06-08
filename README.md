@@ -22,7 +22,7 @@
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-### 🧠 About Me
+###  About Me
 
 ```python
 class AchuVijayakumar:
@@ -47,7 +47,7 @@ print(me)
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -73,7 +73,7 @@ print(me)
 
 ---
 
-## 🗺️ What I Build
+##  What I Build
 
 ```mermaid
 mindmap
@@ -107,11 +107,11 @@ mindmap
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🏆 Project | ⚡ Description | 🔧 Stack |
+|  Project |  Description |  Stack |
 |:---:|:---:|:---:|
 | [**ProcSentry**](https://github.com/achuvijayakumar/ProcSentry) | Lightweight Linux process intelligence and duplicate detection | Python · Linux · SQLite |
 | [**MemoryPingBot**](https://github.com/achuvijayakumar/MemoryPingBot) | AI-powered Telegram reminder bot with LLM integration | Python · Telegram API · AI |
@@ -124,7 +124,7 @@ mindmap
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -138,7 +138,7 @@ mindmap
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -148,7 +148,7 @@ mindmap
 
 ---
 
-## 📅 My Coding Journey
+##  My Coding Journey
 
 ```mermaid
 timeline
@@ -175,7 +175,7 @@ timeline
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -188,7 +188,7 @@ timeline
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+##  Watch My Contributions Get Eaten
 
 <div align="center">
 
