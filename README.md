@@ -30,9 +30,6 @@ class AchuVijayakumar:
         self.name       = "Achu Vijayakumar"
         self.role       = "Software Engineer"
         self.location   = "Thiruvananthapuram, India 🇮🇳"
-        self.languages  = ["Python", "Java", "TypeScript"]
-        self.stack      = ["FastAPI", "HTMX", "SQLite", "Linux"]
-        self.interests  = ["AI Bots", "Trading Systems", "SaaS", "Automation"]
         self.website    = "https://www.achuvijayakumar.online"
 
     def __str__(self):
@@ -83,9 +80,10 @@ mindmap
         Telegram AI Reminder Bot
         LLM Powered
       Trading Bots
-        Kotak System
-        Bino Trader
+        Kotak Tradingsystem
+        Bino Trader Algo
         BN Rathi Algo
+        Renjith Trader Algo
     SaaS Platforms
       TuitionHQ
         Tuition Management
@@ -101,8 +99,6 @@ mindmap
         Developer Journal
     Web and Frontend
       Portfolio Website
-      QR Contact
-      Valentine Project
 ```
 
 ---
@@ -135,18 +131,6 @@ mindmap
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=achuvijayakumar&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=achuvijayakumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
-
-</div>
-
----
 
 ##  My Coding Journey
 
@@ -206,8 +190,6 @@ timeline
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-**"First, solve the problem. Then, write the code." — John Johnson**
-
-*Thanks for visiting! Drop a star if something here inspired you.*
+*Thanks for visiting!*
 
 </div>
