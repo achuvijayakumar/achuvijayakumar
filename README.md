@@ -26,18 +26,25 @@
 
 ```python
 class AchuVijayakumar:
-    def __init__(self):
-        self.name       = "Achu Vijayakumar"
-        self.role       = "Software Engineer"
-        self.location   = "Thiruvananthapuram, India 🇮🇳"
-        self.website    = "https://www.achuvijayakumar.online"
+    """Backend engineer who turns messy problems into systems that just work."""
 
-    def __str__(self):
-        return "Backend engineer focused on reliable, production-grade systems."
+    def __init__(self):
+        self.role     = "Software Engineer"
+        self.based_in = "Thiruvananthapuram, India"
+        self.stack    = ["Python", "FastAPI", "Redis", "Linux"]
+        self.domains  = ["FinTech", "Automation", "Developer Tooling"]
+        self.website  = "https://www.achuvijayakumar.online"
+
+    def focus(self):
+        return "Designing reliable, production-grade backends that scale quietly."
+
+    def currently(self):
+        return "Shipping side projects and sharpening systems, one commit at a time."
+
 
 me = AchuVijayakumar()
-print(me)
-# Output: Backend engineer focused on reliable, production-grade systems.
+print(me.focus())
+# -> Designing reliable, production-grade backends that scale quietly.
 ```
 
 <br clear="right"/>
