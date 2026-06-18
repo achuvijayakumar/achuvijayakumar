@@ -33,11 +33,11 @@ class AchuVijayakumar:
         self.website    = "https://www.achuvijayakumar.online"
 
     def __str__(self):
-        return "Building tools that actually matter ⚡"
+        return "Backend engineer focused on reliable, production-grade systems."
 
 me = AchuVijayakumar()
 print(me)
-# Output: Building tools that actually matter ⚡
+# Output: Backend engineer focused on reliable, production-grade systems.
 ```
 
 <br clear="right"/>
