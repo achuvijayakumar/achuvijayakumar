@@ -87,7 +87,7 @@ mindmap
         Telegram AI Reminder Bot
         LLM Powered
       Trading Bots
-        Kotak Tradingsystem
+        KTX
         Bino Trader Algo
         BN Rathi Algo
         Renjith Trader Algo
@@ -122,6 +122,8 @@ mindmap
 | [**erp_service**](https://github.com/achuvijayakumar/erp_service) | Business process automation and ERP backend | Python · FastAPI |
 | [**BN_Rathi**](https://github.com/achuvijayakumar/BN_Rathi) | Algorithmic trading system | Python · Quant Finance |
 | [**student-management-system**](https://github.com/achuvijayakumar/student-management-system) | Java console app for student records with OOP and file IO | Java · OOP |
+| [**DevLog**](https://github.com/achuvijayakumar/DevLog) | Zero-touch coding session tracker with analytics dashboard | Python · SQLite · Streamlit |
+| [**portfolio_website**](https://github.com/achuvijayakumar/portfolio_website) | Personal portfolio site with case studies and SEO optimization | TypeScript · Vite · Tailwind |
 
 </div>
 
