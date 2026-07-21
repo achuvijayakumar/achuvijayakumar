@@ -84,8 +84,8 @@ mindmap
   root((Achu Builds))
     AI and Automation
       MemoryPingBot
-        Telegram AI Reminder Bot
-        LLM Powered
+        Multi-Platform NLP Reminder Bot
+        Telegram + WhatsApp
       Trading Bots
         KTX
         Bino Trader Algo
@@ -117,13 +117,13 @@ mindmap
 |  Project |  Description |  Stack |
 |:---:|:---:|:---:|
 | [**ProcSentry**](https://github.com/achuvijayakumar/ProcSentry) | Lightweight Linux process intelligence and duplicate detection | Python · Linux · SQLite |
-| [**MemoryPingBot**](https://github.com/achuvijayakumar/MemoryPingBot) | AI-powered Telegram reminder bot with LLM integration | Python · Telegram API · AI |
 | [**TuitionHQ**](https://github.com/achuvijayakumar/TuitionHQ) | Full SaaS for tuition management with payments and scheduling | FastAPI · HTMX · Python |
-| [**erp_service**](https://github.com/achuvijayakumar/erp_service) | Business process automation and ERP backend | Python · FastAPI |
+| [**MemoryPingBot**](https://github.com/achuvijayakumar/MemoryPingBot) | Multi-platform NLP reminder bot for Telegram and WhatsApp with hybrid rule/ML intent parsing | Python · FastAPI · NLP/ML |
 | [**BN_Rathi**](https://github.com/achuvijayakumar/BN_Rathi) | Algorithmic trading system | Python · Quant Finance |
 | [**student-management-system**](https://github.com/achuvijayakumar/student-management-system) | Java console app for student records with OOP and file IO | Java · OOP |
 | [**DevLog**](https://github.com/achuvijayakumar/DevLog) | Zero-touch coding session tracker with analytics dashboard | Python · SQLite · Streamlit |
 | [**portfolio_website**](https://github.com/achuvijayakumar/portfolio_website) | Personal portfolio site with case studies and SEO optimization | TypeScript · Vite · Tailwind |
+| [**erp_service**](https://github.com/achuvijayakumar/erp_service) | Business process automation and ERP backend | Python · FastAPI |
 
 </div>
 
@@ -153,13 +153,13 @@ timeline
       tradingsystem             : First trading bot built
       portfolio_website         : TypeScript and CSS frontend
     section Automation
-      MemoryPingBot             : AI-powered Telegram bot
-                                : Integrated LLM reminders
+      MemoryPingBot          : Multi-platform NLP reminder bot
+                        : Telegram + WhatsApp, hybrid rule/ML parsing
       bino_trader               : Advanced quant trading
     section SaaS and Scale
       TuitionHQ                   : Full SaaS platform
                                 : FastAPI HTMX Payments
-      erp_service               : Enterprise ERP backend
+        erp_service           : Enterprise ERP backend
     section 2026 Now
       BN_Rathi                  : Algo trading system
                                 : 793 plus contributions this year
